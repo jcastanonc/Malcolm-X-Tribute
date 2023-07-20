@@ -1,0 +1,40 @@
+
+
+#img-div {
+position:center;
+background-color: rgba(45,45,45,0.1);
+text-align: center;
+padding: 10px;
+}
+#image {
+margin-left: auto;
+margin-right: auto;
+display: block;
+height: auto;
+width: 230px;
+max-width: 100%;
+box-shadow: 0 10px 20px rgba(0,0,0,0.19);
+
+}
+#main {
+
+padding: 10px;
+font: Times New Roman;
+font-size: 16px;
+text-align: center;
+box-shadow: 0 10px 20px rgba(0,0,0,0.19);
+
+}
+#tribute-info {
+position: center;
+font-size: 30px;
+font-family: "Times New Roman", Times, serif;
+box-shadow: 0 10px 20px rgba(250,200,0,0.19);
+padding: 10px;
+}
+
+h1 {
+box-shadow: 0 10px 20px rgba(250,200,0,0.19);
+padding: 10px;
+}
+
